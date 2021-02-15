@@ -1,3 +1,58 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+$gray: #F4F4F4;
+
+
+body {
+    background: $gray;
+    margin: 0;
+}
+
+.container {
+    display: inline-flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+}
+
+
+.card {
+    border-left: 10px solid gray;
+    padding: 5px;
+    margin: 15px;
+}
+
+.banner {
+    background: red;
+    h1 {
+        font-size: 50px;
+    }
+}
+
+
+
+.card-coach {
+    background: rgba(228, 243, 25, 0.5);
+    h1 {
+        opacity: 1 !important;
+        font-size: 50px;
+    }
+}
+
+.btn-danger {
+    background-color: black ;
+    font-size: 30px;
+    font-weight: bold;
+    border: 0;
+    a {
+        border: 0;
+        color: grey;
+        text-decoration: none;
+        &:hover {
+            color: black;
+    }
+}
+}
