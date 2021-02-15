@@ -22,3 +22,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Stupid Coaching
+
+### User Ask Page
+
+![User Ask Page](https://i.imgur.com/wlrkvUo.png)
+
+### Coach Answer Page
+
+![Coach Answer Page](https://i.imgur.com/KmPAcEu.png)
